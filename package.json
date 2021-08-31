@@ -1,0 +1,14 @@
+{
+    "name": "@royalscome/format",
+    "version": "2.0.4",
+    "description": "Time formatting tool and number formatting tool",
+    "license": "MIT",
+    "repository": "royalscome/format",
+    "main": "index.js",
+    "keywords": [
+        "format",
+        "npm",
+        "package",
+        "royalscome"
+    ]
+}
